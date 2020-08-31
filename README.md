@@ -1,2 +1,2 @@
 # projects
-python program basic project
+python program basic projects
